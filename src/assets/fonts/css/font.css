@@ -1,75 +1,26 @@
 @font-face {
-    font-family: "Sora-Variable";
-    src: url("../sora/Sora-VariableFont_wght.ttf") format("truetype");
-    font-weight: 100 900;
-    font-display: swap;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "Sora-Thin";
-    src: url("../sora/Sora-Thin.ttf") format("truetype");
-    font-weight: 100;
-    font-display: swap;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "Sora-Extralight";
-    src: url("../sora/Sora-ExtraLight.ttf") format("truetype");
-    font-weight: 200;
-    font-display: swap;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "Sora-Light";
-    src: url("../sora/Sora-Light.ttf") format("truetype");
+    font-family: "AeonikTrial-Light";
+    src: url("../aeonik/aeoniktrial-light.otf") format("opentype");
     font-weight: 300;
     font-display: swap;
     font-style: normal;
 }
 
 @font-face {
-    font-family: "Sora-Regular";
-    src: url("../sora/Sora-Regular.ttf") format("truetype");
-    font-weight: 400;
-    font-display: swap;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "Sora-Medium";
-    src: url("../sora/Sora-Medium.ttf") format("truetype");
-    font-weight: 500;
-    font-display: swap;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "Sora-SemiBold";
-    src: url("../sora/Sora-SemiBold.ttf") format("truetype");
-    font-weight: 500;
-    font-display: swap;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "Sora-Bold";
-    src: url("../sora/Sora-Bold.ttf") format("truetype");
+    font-family: "AeonikTrial-Regular";
+    src: url("../aeonik/aeoniktrial-regular.otf") format("opentype");
     font-weight: 700;
     font-display: swap;
     font-style: normal;
 }
 
 @font-face {
-    font-family: "Sora-Extrabold";
-    src: url("../sora/Sora-ExtraBold.ttf") format("truetype");
-    font-weight: 800;
+    font-family: "AeonikTrial-Bold";
+    src: url("../aeonik/aeoniktrial-bold.otf") format("opentype");
+    font-weight: 900;
     font-display: swap;
     font-style: normal;
 }
-
 
 /* INTER */
 @font-face {

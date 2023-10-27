@@ -1,0 +1,6 @@
+export enum SERVICE_CATEGORY {
+    WEB_DEV = "WEB_DEV",
+    MOBILE_DEV = "MOBILE_DEV",
+    DESIGN = "DESIGN",
+    TRAINING = "TRAINING"
+}

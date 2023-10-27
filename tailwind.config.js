@@ -6,16 +6,13 @@ export default {
   ],
   theme: {
     extend: {
+      padding: {
+        'inline': '20px',
+      },
       fontFamily: {
-        "Sora-Thin": ["Sora-Thin"],
-        "Sora-Extralight": ["Sora-Extralight"],
-        "Sora-Light": ["Sora-Light"],
-        "Sora-Regular": ["Sora-Regular"],
-        "Sora-Medium": ["Sora-Medium"],
-        "Sora-SemiBold": ["Sora-SemiBold"],
-        "Sora-Bold": ["Sora-Bold"],
-        "Sora-Extrabold": ["Sora-Extrabold"],
-        "Sora-Black": ["Sora-Black"],
+        "AeonikTrial-Light": ["AeonikTrial-Light"],
+        "AeonikTrial-Regular": ["AeonikTrial-Regular"],
+        "AeonikTrial-Bold": ["AeonikTrial-Bold"],
         "Inter-Thin": ["Inter-Thin"],
         "Inter-Extralight": ["Inter-Extralight"],
         "Inter-Light": ["Inter-Light"],
@@ -26,6 +23,9 @@ export default {
         "Inter-Black": ["Inter-Black"],
       },
       colors: {
+        pry: "#F5B601",
+        sec: "#6801F5",
+        lightBlack: "#46474A",
         brandColor: "#E1AE3C",
         lightGreen: "#c2f19e",
         SideNav: "#f4f8fa",

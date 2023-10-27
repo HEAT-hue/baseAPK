@@ -1,0 +1,1 @@
+export { SERVICE_CATEGORY } from "./services";

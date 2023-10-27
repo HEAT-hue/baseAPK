@@ -1,0 +1,29 @@
+<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M15 26.25H21" stroke="url(#paint0_linear_63_14461)" stroke-width="3.13" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M3 26.25V11.25C3 5.25 4.5 3.75 10.5 3.75" stroke="url(#paint1_linear_63_14461)" stroke-width="3.13" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M33 26.25V11.25C33 5.25 31.5 3.75 25.5 3.75" stroke="url(#paint2_linear_63_14461)" stroke-width="3.13" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M15 23.865V28.8C15 31.8 13.8 33 10.8 33H7.2C4.2 33 3 31.8 3 28.8V23.865C3 20.865 4.2 19.665 7.2 19.665H10.8C13.8 19.665 15 20.865 15 23.865Z" stroke="url(#paint3_linear_63_14461)" stroke-width="3.13" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M33 23.865V28.8C33 31.8 31.8 33 28.8 33H25.2C22.2 33 21 31.8 21 28.8V23.865C21 20.865 22.2 19.665 25.2 19.665H28.8C31.8 19.665 33 20.865 33 23.865Z" stroke="url(#paint4_linear_63_14461)" stroke-width="3.13" stroke-linecap="round" stroke-linejoin="round"/>
+<defs>
+<linearGradient id="paint0_linear_63_14461" x1="18" y1="26.25" x2="18" y2="27.25" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F5B601"/>
+<stop offset="1" stop-color="#654E0B"/>
+</linearGradient>
+<linearGradient id="paint1_linear_63_14461" x1="6.75" y1="3.75" x2="6.75" y2="26.25" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F5B601"/>
+<stop offset="1" stop-color="#654E0B"/>
+</linearGradient>
+<linearGradient id="paint2_linear_63_14461" x1="29.25" y1="3.75" x2="29.25" y2="26.25" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F5B601"/>
+<stop offset="1" stop-color="#654E0B"/>
+</linearGradient>
+<linearGradient id="paint3_linear_63_14461" x1="9" y1="19.665" x2="9" y2="33" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F5B601"/>
+<stop offset="1" stop-color="#654E0B"/>
+</linearGradient>
+<linearGradient id="paint4_linear_63_14461" x1="27" y1="19.665" x2="27" y2="33" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F5B601"/>
+<stop offset="1" stop-color="#654E0B"/>
+</linearGradient>
+</defs>
+</svg>

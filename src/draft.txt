@@ -1,0 +1,25 @@
+            {/* Mobile Nav menu */}
+                    {/* <div className={nav ? "absolute inset-x-0 border border-yellow-600 top-[60px] h-screen backdrop-blur md:hidden ease-in duration-500" : "fixed top-[-100%]"}>
+                        <ul className="sentence bg-white h-max flex flex-col gap-y-4 border border-red-500 font-AeonikTrial-Regular">
+                            <NavLink to="/" >
+                                {({ isActive }) => (
+                                    <li className={`p-4 ease-in-out transition duration-500 ${isActive && "text-sec"}`}>Home</li>
+                                )}
+                            </NavLink>
+                            <NavLink to="/about" >
+                                {({ isActive }) => (
+                                    <li className={`p-4 w-max ease-in-out transition duration-500 ${isActive && "text-sec"}`}>About Us</li>
+                                )}
+                            </NavLink>
+                            <NavLink to="/services" >
+                                {({ isActive }) => (
+                                    <li className={`p-4 ease-in-out transition duration-500 ${isActive && "text-sec"}`}>Services</li>
+                                )}
+                            </NavLink>
+                            <NavLink to="/contact" >
+                                {({ isActive }) => (
+                                    <li className={`p-4 ease-in-out transition duration-500 ${isActive && "text-sec"}`}>Contact</li>
+                                )}
+                            </NavLink>
+                        </ul>
+                    </div> */}
